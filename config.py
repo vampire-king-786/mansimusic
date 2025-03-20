@@ -81,9 +81,9 @@ START_IMG_URL = getenv(
     "START_IMG_URL", "https://graph.org/file/7793dd6a86ad943366dd8-cd4fecd427fc7b0bd8.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://graph.org/file/f7e5d91a2deb7828f5c12-2146a446872584a98e.jpg"
+    "PING_IMG_URL", "https://graph.org/file/669d7ba53187d45d25e4f-54144d88684b4f686e.jpg"
 )
-PLAYLIST_IMG_URL = "https://graph.org/file/7bb8139ec6c5740d4a308-c62fda2c9d116d87c3.jpg"
+PLAYLIST_IMG_URL = "https://graph.org/file/e4b07b3c0b788d48fc088-5a75fa7fa245a93ba7.jpg"
 STATS_IMG_URL = "https://files.catbox.moe/yfvai0.jpg"
 TELEGRAM_AUDIO_URL = "https://files.catbox.moe/nef735.jpg"
 TELEGRAM_VIDEO_URL = "https://telegra.ph/file/51cb8a22e65caa4382879.jpg"
